@@ -1,0 +1,6 @@
+projectKey=com.mavensonar.test:MavenSonar
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=com.mavensonar.test%3AMavenSonar
+ceTaskId=AXFfZ3ATsLjNBnO_S7h3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXFfZ3ATsLjNBnO_S7h3
